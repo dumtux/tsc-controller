@@ -12,3 +12,16 @@
 * RTC and EEPROM on I2C
 * 2 x external I2C for external sensors
 * 9 - 24V power supply input
+
+
+## Issues of Ver 1.0
+
+(todo)
+
+
+## Issues of Ver 0.99
+
+(checked item == fixed in next version)
+
+* [x] D3, an ESD proteciton diode for USB port has wrong direction
+* [x] MCP3008 is making the Raspberry CM4 not booting.
