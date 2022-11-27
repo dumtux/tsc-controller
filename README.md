@@ -25,3 +25,4 @@
 
 * [x] D3, an ESD proteciton diode for USB port has wrong direction
 * [x] MCP3008 is making the Raspberry CM4 not booting.
+* [x] Polarity of Relay 0-5 are reversed.
