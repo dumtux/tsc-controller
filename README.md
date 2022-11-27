@@ -1,6 +1,6 @@
 # TSC Board : industrial Raspberry Pi CM4 Carrier board
 
-<img src="https://github.com/dumtux/tsc-controller/blob/develop/doc/image/prototype-v0.99.png?raw=true">
+<img src="https://github.com/dumtux/tsc-controller/blob/develop/doc/image/prototype.png?raw=true">
 
 * Raspberry Pi CM4
 * HDMI 4k
